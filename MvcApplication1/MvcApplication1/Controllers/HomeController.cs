@@ -10,7 +10,8 @@ namespace MvcApplication1.Controllers
     {
         //
         // GET: /Home/
-
+        
+        // new line
         public ActionResult Index()
         {
             return View();
